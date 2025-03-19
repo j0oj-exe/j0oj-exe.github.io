@@ -188,7 +188,7 @@ header .menu-icon div{
 }
 
 .search input{
-    background-image: url(/searchIcon.png);
+    background-image: url(./searchIcon.png);
     background-repeat: no-repeat;
     background-position: 20px center;
     padding-left: 60px;
@@ -351,3 +351,5 @@ footer .copyrights a:hover{
         grid-template-columns: 1fr;
     }
 }
+
+
